@@ -1,0 +1,3 @@
+/home/protaxy/CLionProjects/DA_CP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/protaxy/CLionProjects/DA_CP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/protaxy/CLionProjects/DA_CP/cmake-build-debug/CMakeFiles/DA_CP.dir
